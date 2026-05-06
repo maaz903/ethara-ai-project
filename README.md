@@ -1,2 +1,3 @@
 # ethara-ai-project
-Author -Md Maaz
+Author -Md Maaz hasan
+
